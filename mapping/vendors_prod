@@ -299,7 +299,7 @@ Other,91654,Food Truck
 Other,91655,Local business
 Chinese,91656,Chinese Restaurant
 Other,91657,Korean Restaurant
-Other,91658,Local business
+Bar,91658,Local business
 Other,91659,Local business
 Middle Eastern,91660,Middle Eastern Restaurant
 Other,91661,Diner
@@ -661,7 +661,7 @@ American,92689,American Restaurant
 Other,92690,Deli / Bodega
 Mexican,92691,Taco Place
 Burgers,92692,Burger Joint
-Other,92693,Local business
+Bar,92693,Local business
 Other,92694,Local business
 Other,92695,Restaurant
 BBQ,92696,BBQ Joint
@@ -1972,7 +1972,7 @@ Other,97900,Deli / Bodega
 Other,97901,Southern / Soul Food Restaurant
 Dessert,97902,Ice Cream Shop
 Vegetarian,97903,Vegetarian / Vegan Restaurant
-Japanese,97904,Sushi Restaurant
+Bar,97904,Sushi Restaurant
 Chinese,97905,Chinese Restaurant
 Other,97906,Local business
 American,97907,American Restaurant
@@ -2082,10 +2082,10 @@ Chinese,98685,Chinese Restaurant
 Sandwiches & Salads,98686,Sandwich Place
 Other,98687,Restaurant
 Bar,98688,Bar
-Cafe,98689,Coffee Shop
+Other,98689,Coffee Shop
 Other,98690,Thai Restaurant
 Mexican,98691,Mexican Restaurant
-Japanese,98692,Sushi Restaurant
+Other,98692,Sushi Restaurant
 Other,98693,German Restaurant
 Other,98694,Tapas Restaurant
 Other,98695,Bagel Shop
@@ -2779,7 +2779,7 @@ Chinese,100821,Chinese Restaurant
 Bar,100822,Bar
 Pizza,100823,Pizza Place
 Pizza,100824,Pizza Place
-Bar,100825,Hotel Bar
+Other,100825,Hotel Bar
 Other,100826,Local business
 Other,100827,Local business
 Other,100828,Local business
@@ -3064,7 +3064,7 @@ American,101892,American Restaurant
 Other,101893,Bakery
 Other,101894,Greek Restaurant
 Other,101895,Restaurant
-Cafe,101896,Café
+Bar,101896,Café
 Other,101897,Food Truck
 Cafe,101898,Café
 Chinese,101899,Dumpling Restaurant
@@ -3492,7 +3492,7 @@ Italian,103676,Italian Restaurant
 American,103677,American Restaurant
 Dessert,103678,Ice Cream Shop
 Dessert,103679,Ice Cream Shop
-Cafe,103680,Restaurant/cafe
+Bar,103680,Restaurant/cafe
 Other,103681,Local business
 Other,103682,Food Truck
 Italian,103683,Italian Restaurant
@@ -3696,7 +3696,7 @@ Dessert,103880,Ice Cream Shop
 Other,103881,Local business
 Pizza,103882,Pizza Place
 Other,103883,Greek Restaurant
-Cafe,103884,Coffee Shop
+Other,103884,Coffee Shop
 Other,103885,Juice Bar
 Italian,103886,Italian Restaurant
 Italian,103887,Italian Restaurant
@@ -3813,7 +3813,7 @@ Dessert,103997,Dessert Shop
 Other,103998,Local business
 Other,103999,Deli / Bodega
 Pizza,104000,Pizza Place
-American,104696,American Restaurant
+Bar,104696,American Restaurant
 Other,104697,Restaurant
 Other,104698,Asian Restaurant
 Japanese,104699,Japanese Restaurant
@@ -3901,7 +3901,7 @@ Bar,104780,Winery
 American,104781,American Restaurant
 Chinese,104782,Chinese Restaurant
 American,104783,Snack Place
-Cafe,104784,Restaurant/cafe
+Other,104784,Restaurant/cafe
 Other,104785,Restaurant
 Other,104786,Local business
 Other,104787,Bakery
@@ -4508,7 +4508,7 @@ Other,106780,Local business
 BBQ,106781,BBQ Joint
 Other,106782,Food Truck
 Sandwiches & Salads,106783,Sandwich Place
-Other,106784,Local business
+American,106784,Local business
 Cafe,106785,Restaurant/cafe
 Cafe,106786,Restaurant/cafe
 Steakhouse,106787,Steakhouse
@@ -4542,7 +4542,7 @@ Italian,106814,Italian Restaurant
 Italian,106815,Italian Restaurant
 Chinese,106816,Chinese Restaurant
 Cafe,106817,Café
-Other,106818,Local business
+Bar,106818,Local business
 Other,106819,Korean Restaurant
 American,106820,Fast Food Restaurant
 French,106821,French Restaurant
@@ -5083,7 +5083,7 @@ Other,109728,Bakery
 Other,109729,Diner
 Other,109730,Food Truck
 Pizza,109731,Pizza Place
-Dessert,109732,Ice Cream Shop
+Other,109732,Ice Cream Shop
 Burgers,109733,Burger Joint
 Cafe,109734,Coffee Shop
 Other,109735,Caribbean Restaurant
@@ -5133,7 +5133,7 @@ Other,109778,Korean Restaurant
 Other,109779,Local business
 Chinese,109780,Chinese Restaurant
 Cafe,109781,Café
-Other,109782,Local business
+Bar,109782,Local business
 Bar,109783,Gastropub
 Other,109784,Local business
 Cafe,109785,Café
@@ -5177,7 +5177,7 @@ Other,109822,Local business
 Dessert,109823,Ice Cream Shop
 American,109824,Snack Place
 Other,109825,Asian Restaurant
-Other,109826,Local business
+Bar,109826,Local business
 Cafe,109827,Coffee Shop
 Cafe,109828,Coffee Shop
 Japanese,109829,Sushi Restaurant
@@ -5188,7 +5188,7 @@ Other,109833,Asian Restaurant
 Middle Eastern,109834,Mediterranean Restaurant
 Chinese,109835,Chinese Restaurant
 Other,109836,Food Truck
-Dessert,109837,Ice Cream Shop
+Bar,109837,Ice Cream Shop
 Other,109838,Diner
 Dessert,109839,Ice Cream Shop
 Other,109840,Deli / Bodega
@@ -5501,7 +5501,7 @@ French,110818,French Restaurant
 Pizza,110819,Pizza Place
 Mexican,110820,Mexican Restaurant
 Japanese,110821,Japanese Restaurant
-Other,110822,Local business
+Bar,110822,Local business
 Other,110823,Deli / Bodega
 Japanese,110824,Sushi Restaurant
 Other,110825,Food Truck
@@ -5547,7 +5547,7 @@ Vegetarian,110864,Vegetarian / Vegan Restaurant
 Other,110865,Juice Bar
 Middle Eastern,110866,Middle Eastern Restaurant
 Japanese,110867,Japanese Restaurant
-American,110868,American Restaurant
+Bar,110868,American Restaurant
 Other,110869,Food
 Sandwiches & Salads,110870,Sandwich Place
 Other,110871,Deli / Bodega
@@ -5698,7 +5698,7 @@ Other,111643,Asian Restaurant
 Japanese,111644,Sushi Restaurant
 Pizza,111645,Pizza Place
 Other,111646,Deli / Bodega
-Cafe,111647,Restaurant/cafe
+Bar,111647,Restaurant/cafe
 Other,111648,Food Truck
 American,111649,American Restaurant
 Pizza,111650,Pizza Place
@@ -5952,7 +5952,7 @@ Italian,111898,Italian Restaurant
 Cafe,111899,Café
 Other,111900,Korean Restaurant
 Other,111901,Korean Restaurant
-Other,111902,Local business
+Bar,111902,Local business
 Bar,111903,Sake Bar
 Cafe,111904,Restaurant/cafe
 Other,111905,Food Truck
@@ -6928,7 +6928,7 @@ Other,114878,Eastern European Restaurant
 Other,114879,Asian Restaurant
 Other,114880,Thai Restaurant
 Other,114881,Deli / Bodega
-Pizza,114882,Pizza Place
+Other,114882,Pizza Place
 Italian,114883,Italian Restaurant
 Italian,114884,Italian Restaurant
 Cafe,114885,Coffee Shop
@@ -7322,7 +7322,7 @@ Other,115972,Deli / Bodega
 French,115973,French Restaurant
 Cafe,115974,Restaurant/cafe
 Other,115975,Bakery
-Cafe,115976,Café
+Other,115976,Café
 Other,115977,Restaurant
 Other,115978,Food Truck
 Italian,115979,Italian Restaurant
@@ -7757,7 +7757,7 @@ American,118705,American Restaurant
 Other,118706,Spanish Restaurant
 Other,118707,Food Truck
 Cafe,118708,Coffee Shop
-Other,118709,Local business
+Bar,118709,Local business
 Sandwiches & Salads,118710,Sandwich Place
 Bar,118711,Lounge
 Other,118712,Local business
@@ -8233,7 +8233,7 @@ Other,145445,Local business
 French,145446,French Restaurant
 Other,145447,Thai Restaurant
 Other,145448,Food Truck
-Other,145449,Local business
+Bar,145449,Local business
 Middle Eastern,145450,Mediterranean Restaurant
 Mexican,145451,Burrito Place
 Italian,145452,Italian Restaurant
@@ -9013,11 +9013,11 @@ Other,146586,Diner
 Other,146587,Food Truck
 Chinese,146588,Dim Sum Restaurant
 Other,146589,Bakery
-American,146590,New American Restaurant
+Other,146590,New American Restaurant
 Other,146591,Food
 Bar,146592,Wine Bar
 French,146593,French Restaurant
-Other,146594,Local business
+Bar,146594,Local business
 Bar,146595,Gastropub
 American,146596,Fast Food Restaurant
 Bar,146597,Bar
@@ -9162,7 +9162,7 @@ Other,146735,Food Truck
 Cafe,146736,Coffee Shop
 American,146737,American Restaurant
 Chinese,146738,Dim Sum Restaurant
-Other,146739,Hotel
+Bar,146739,Hotel
 BBQ,146740,BBQ Joint
 Burgers,146741,Burger Joint
 Middle Eastern,146742,Afghan Restaurant
@@ -9188,7 +9188,7 @@ Cafe,146761,Coffee Shop
 Other,146762,Diner
 Other,146763,Food Truck
 Italian,146764,Italian Restaurant
-Other,146765,Local business
+Bar,146765,Local business
 Other,146766,Deli / Bodega
 American,146767,American Restaurant
 Dessert,146768,Dessert Shop
@@ -9266,7 +9266,7 @@ French,146839,French Restaurant
 Cafe,146840,Coffee Shop
 Other,146841,Food Truck
 Mexican,146842,Taco Place
-Other,146843,Local business
+Bar,146843,Local business
 Other,146844,Local business
 Dessert,146845,Dessert Shop
 Other,146846,Diner
@@ -9853,7 +9853,7 @@ American,148358,Fast Food Restaurant
 Vegetarian,148359,Vegetarian / Vegan Restaurant
 American,148360,Cajun / Creole Restaurant
 Pizza,148361,Pizza Place
-Cafe,148362,Restaurant/cafe
+Bar,148362,Restaurant/cafe
 Other,148363,Bagel Shop
 Cafe,148364,Coffee Shop
 Cafe,148365,Coffee Shop
@@ -10522,7 +10522,7 @@ Other,149311,Soup Place
 Italian,149312,Italian Restaurant
 Other,149313,Juice Bar
 Other,149314,Local business
-Other,149315,Local business
+Bar,149315,Local business
 American,149316,Fast Food Restaurant
 Pizza,149317,Pizza Place
 French,149318,French Restaurant
@@ -10533,7 +10533,7 @@ Other,149322,Restaurant
 Mexican,149323,Mexican Restaurant
 American,149324,Fast Food Restaurant
 Other,149325,Food Truck
-Other,149326,Local business
+Bar,149326,Local business
 Other,149327,Food Truck
 Other,149328,Food
 Other,149329,Bakery
@@ -10561,7 +10561,7 @@ Other,149350,Restaurant
 Cafe,149351,Tea Room
 Dessert,149352,Dessert Shop
 Japanese,149353,Japanese Restaurant
-Other,149354,Local business
+Bar,149354,Local business
 Dessert,149355,Dessert Shop
 Indian,149356,Indian Restaurant
 American,149357,New American Restaurant
@@ -10595,7 +10595,7 @@ Other,149384,Martial Arts Dojo
 Sandwiches & Salads,149385,Sandwich Place
 Other,149386,Local business
 Other,149387,Food Truck
-Sandwiches & Salads,149388,Sandwich Place
+Bar,149388,Sandwich Place
 Cafe,149389,Tea Room
 Other,149390,Food Truck
 Dessert,149391,Cupcake Shop
@@ -10995,7 +10995,7 @@ Other,149784,Local business
 Other,149785,Deli / Bodega
 Pizza,149786,Pizza Place
 Middle Eastern,149787,Falafel Restaurant
-Other,149788,Local business
+Bar,149788,Local business
 Other,149789,Local business
 Other,149790,Local business
 Other,149791,Local business
@@ -11096,7 +11096,7 @@ Dessert,149885,Donut Shop
 Other,149886,Bakery
 Other,149887,Local business
 Chinese,149888,Dumpling Restaurant
-Other,149889,Local business
+Bar,149889,Local business
 Cafe,149890,Coffee Shop
 American,149891,American Restaurant
 Middle Eastern,149892,Middle Eastern Restaurant
@@ -11205,7 +11205,7 @@ Other,150321,Restaurant
 Sandwiches & Salads,150322,Sandwich Place
 Other,150323,Local business
 Bar,150324,Winery
-Other,150325,Local business
+Bar,150325,Local business
 American,150326,Hot Dog Joint
 Mexican,150327,Mexican Restaurant
 Chinese,150328,Dumpling Restaurant
@@ -11316,7 +11316,7 @@ BBQ,150432,BBQ Joint
 Sandwiches & Salads,150433,Sandwich Place
 Pizza,150434,Pizza Place
 Italian,150435,Italian Restaurant
-Other,150436,Local business
+Bar,150436,Local business
 Japanese,150437,Sushi Restaurant
 American,150438,American Restaurant
 Cafe,150439,Café
@@ -12695,7 +12695,7 @@ Other,152432,Tapas Restaurant
 American,152433,Snack Place
 Other,152434,Local business
 Other,152435,Local business
-Other,152436,Restaurant
+Bar,152436,Restaurant
 Other,152437,Southern / Soul Food Restaurant
 Cafe,152438,Café
 Cafe,152439,Coffee Shop
@@ -13265,12 +13265,12 @@ Mexican,153335,Mexican Restaurant
 Other,153336,Food
 Other,153337,Local business
 Cafe,153338,Café
-Cafe,153339,Restaurant/cafe
+Bar,153339,Restaurant/cafe
 Other,153340,Food/beverages
 Vegetarian,153341,Vegetarian / Vegan Restaurant
 American,153342,American Restaurant
 American,153343,American Restaurant
-Other,153344,Local business
+Bar,153344,Local business
 Other,153345,Local business
 Dessert,153346,Dessert Shop
 Other,153347,Cuban Restaurant
@@ -13340,7 +13340,7 @@ Other,153410,Local business
 Mexican,153411,Taco Place
 Japanese,153412,Sushi Restaurant
 Other,153413,Local business
-Japanese,153414,Sushi Restaurant
+Bar,153414,Sushi Restaurant
 Sandwiches & Salads,153415,Sandwich Place
 Other,153416,Asian Restaurant
 Japanese,153417,Sushi Restaurant
@@ -13853,7 +13853,7 @@ Other,153924,Local business
 Indian,153925,Indian Restaurant
 Cafe,153926,Restaurant/cafe
 Other,153927,Food Truck
-Other,153928,Local business
+Bar,153928,Local business
 Other,153929,Bakery
 Chinese,153930,Chinese Restaurant
 Pizza,153931,Pizza Place
@@ -14244,7 +14244,7 @@ Other,154600,Local business
 Chinese,154601,Chinese Restaurant
 Other,154602,Restaurant
 Cafe,154603,Coffee Shop
-Cafe,154604,Breakfast Spot
+Bar,154604,Breakfast Spot
 Other,154605,Local business
 Italian,154606,Italian Restaurant
 Bar,154607,Cocktail Bar
@@ -14705,7 +14705,7 @@ Italian,155324,Italian Restaurant
 American,155325,American Restaurant
 American,155326,Hot Dog Joint
 American,155327,American Restaurant
-American,155328,American Restaurant
+Bar,155328,American Restaurant
 Other,155329,Juice Bar
 Other,155330,Local business
 Mexican,155331,Taco Place
@@ -15216,9 +15216,9 @@ Indian,155835,Indian Restaurant
 Italian,155836,Italian Restaurant
 Chinese,155837,Chinese Restaurant
 Cafe,155838,Café
-Other,155839,Local business
+Bar,155839,Local business
 Other,155840,Food Truck
-Cafe,155841,Restaurant/cafe
+Bar,155841,Restaurant/cafe
 Other,155842,Deli / Bodega
 Bar,155843,Bar
 Japanese,155844,Japanese Restaurant
@@ -15465,7 +15465,7 @@ Chinese,156399,Chinese Restaurant
 Cafe,156400,Café
 Dessert,156401,Dessert Shop
 Other,156402,Food
-Other,156403,Local business
+Bar,156403,Local business
 Other,156404,Juice Bar
 Other,156405,Local business
 Other,156406,Local business
@@ -15942,7 +15942,7 @@ Other,156876,Food Truck
 Cafe,156877,Café
 Cafe,156878,Restaurant/cafe
 Other,156879,Health/beauty
-Mexican,156880,Mexican Restaurant
+Bar,156880,Mexican Restaurant
 Other,156881,Food Truck
 American,156882,Hot Dog Joint
 Other,156883,Deli / Bodega
@@ -15983,7 +15983,7 @@ Other,156920,Local business
 Other,156921,Local business
 Other,156922,Local business
 Other,156923,Local business
-Cafe,156924,Restaurant/cafe
+American,156924,Restaurant/cafe
 Other,156925,Local business
 Other,156926,Local business
 Other,156927,Local business
@@ -16141,7 +16141,7 @@ Other,157350,Food Truck
 Cafe,157351,College Cafeteria
 Italian,157352,Italian Restaurant
 Pizza,157353,Pizza Place
-Other,157354,Local business
+Bar,157354,Local business
 Mexican,157355,Mexican Restaurant
 American,157356,Snack Place
 Sandwiches & Salads,157357,Sandwich Place
@@ -16209,7 +16209,7 @@ American,157418,American Restaurant
 Cafe,157419,Coffee Shop
 Other,157420,Bagel Shop
 Sandwiches & Salads,157421,Sandwich Place
-American,157422,American Restaurant
+Bar,157422,American Restaurant
 Italian,157423,Italian Restaurant
 Cafe,157424,Coffee Shop
 Other,157425,Deli / Bodega
@@ -16866,7 +16866,7 @@ Other,158239,Local business
 Italian,158240,Italian Restaurant
 Cafe,158241,Coffee Shop
 Pizza,158242,Pizza Place
-Other,158243,Local business
+Bar,158243,Local business
 Other,158244,Brazilian Restaurant
 Italian,158245,Italian Restaurant
 Japanese,158246,Japanese Restaurant
@@ -16877,7 +16877,7 @@ Sandwiches & Salads,158250,Salad Place
 Vegetarian,158251,Vegetarian / Vegan Restaurant
 Sandwiches & Salads,158252,Sandwich Place
 Other,158253,Latin American Restaurant
-Other,158254,Local business
+Bar,158254,Local business
 Cafe,158255,Coffee Shop
 Steakhouse,158256,Steakhouse
 Other,158257,Food Court
@@ -17907,7 +17907,7 @@ Cafe,160108,Restaurant/cafe
 Cafe,160109,Café
 Other,160110,Asian Restaurant
 American,160111,American Restaurant
-Other,160112,Local business
+Bar,160112,Local business
 Other,160113,Deli / Bodega
 Other,160114,Deli / Bodega
 Dessert,160115,Cupcake Shop
@@ -18197,7 +18197,7 @@ Other,160399,Tapas Restaurant
 Other,160400,Local business
 Italian,160401,Italian Restaurant
 Cafe,160402,Café
-Italian,160403,Italian Restaurant
+Other,160403,Italian Restaurant
 Other,160404,Asian Restaurant
 French,160405,French Restaurant
 American,160406,American Restaurant
@@ -18313,7 +18313,7 @@ Cafe,160515,Café
 Other,160516,Food Truck
 American,160517,American Restaurant
 Cafe,160518,Café
-Other,160519,Local business
+Bar,160519,Local business
 Italian,160520,Italian Restaurant
 Other,160521,Deli / Bodega
 Mexican,160522,Mexican Restaurant
@@ -18855,7 +18855,7 @@ Other,161058,Deli / Bodega
 Chinese,161059,Dim Sum Restaurant
 Italian,161060,Italian Restaurant
 Middle Eastern,161061,Falafel Restaurant
-Other,161062,Deli / Bodega
+Bar,161062,Deli / Bodega
 Pizza,161063,Pizza Place
 Indian,161064,Indian Restaurant
 Other,161065,Thai Restaurant
@@ -20061,7 +20061,7 @@ Sandwiches & Salads,162273,Sandwich Place
 American,162274,Cajun / Creole Restaurant
 Other,162275,Food Truck
 Other,162276,Food
-Other,162277,Local business
+Bar,162277,Local business
 Other,162278,Local business
 Other,162279,Restaurant
 Other,162280,Local business
@@ -20641,7 +20641,7 @@ Pizza,165039,Pizza Place
 Chinese,165040,Chinese Restaurant
 Japanese,165041,Sushi Restaurant
 Cafe,165042,Restaurant/cafe
-Other,165043,Local business
+Cafe,165043,Local business
 Chinese,165044,Chinese Restaurant
 Other,165045,Food Truck
 Pizza,165046,Pizza Place
@@ -21601,7 +21601,7 @@ Indian,170011,Indian Restaurant
 Other,170012,Local business
 Other,170013,Local business
 Other,170014,Local business
-Other,170015,Local business
+Bar,170015,Local business
 Other,170016,Local business
 Cafe,170017,Restaurant/cafe
 Other,170018,Deli / Bodega
@@ -21822,7 +21822,7 @@ Pizza,171094,Pizza Place
 Dessert,171095,Ice Cream Shop
 Pizza,171096,Pizza Place
 Other,171097,Food
-Other,171098,Local business
+Bar,171098,Local business
 American,171099,American Restaurant
 Other,171100,Food Truck
 Other,171101,Food Truck
@@ -23787,7 +23787,7 @@ Other,189090,Local business
 Other,189091,Local business
 Cafe,189092,Restaurant/cafe
 Other,189093,Local business
-Other,189094,Local business
+Bar,189094,Local business
 Other,189095,Local business
 Other,189096,Local business
 Other,189097,Local business
@@ -24262,6 +24262,7 @@ Dessert,502001,Ice Cream Parlor
 Other,502002,Restaurant
 Other,502003,Sports Venue & Stadium
 Bar,502004,Lounge
+Cafe,502008,Tea Room
 Other,503001,Local Business
 Bar,503002,Wine Bar
 Other,504001,Environmental Conservation
@@ -24282,6 +24283,7 @@ Other,533006,Rodeo
 Bar,533007,Bar
 Other,533008,Bakery
 American,534002,American Restaurant
+Cafe,534004,Café
 Other,539001,Food/Beverages
 Other,539002,Food & Restaurant
 Bar,539003,Winery
@@ -24300,7 +24302,7 @@ Japanese,543002,Japanese Restaurant
 Bar,543003,Vineyard
 Chinese,543004,Ramen /  Noodle House
 French,544001,French Restaurant
-American,544004,New American Restaurant
+Bar,544004,New American Restaurant
 Bar,544005,Winery
 Bar,545001,Dive Bar
 Mexican,545003,Mexican Restaurant
@@ -24315,7 +24317,11 @@ Seafood,548004,Seafood Restaurant
 Bar,549001,Night Club
 Bar,550001,Bar
 Other,550002,Asian Restaurant
+Other,556002,Local Business
 Other,571003,Local Business
+Other,575002,Vegetarian & Vegan Restaurant
+Bar,575003,Bar
+Bar,575006,Lounge
 Italian,593002,Italian Restaurant
 Other,593003,Local Business
 Other,593004,Local Business
@@ -24348,7 +24354,7 @@ Other,597010,Local Business
 Other,597011,Restaurant
 Other,597012,Island
 Other,598001,Local Business
-Other,598002,Local Business
+Bar,598002,Local Business
 Burgers,598003,Burger Restaurant
 Cafe,598004,Cafe
 Other,598005,Family Style Restaurant
@@ -24364,7 +24370,7 @@ Bar,599004,Bar
 Other,599005,Local Business
 Other,599006,Local Business
 French,599012,French Restaurant
-Other,600001,Nail Salon
+Bar,600001,Nail Salon
 Other,600002,Local Business
 Other,600003,Restaurant
 Cafe,600004,Coffee Shop
@@ -24375,7 +24381,7 @@ Other,600008,Local Business
 Chinese,600009,Chinese Restaurant
 Other,600010,Taiwanese Restaurant
 Other,600011,Local Business
-Other,600012,Greek Restaurant
+Seafood,600012,Greek Restaurant
 Steakhouse,600015,Steakhouse
 Bar,600016,Bar
 Bar,601001,Beer Garden
@@ -24386,8 +24392,8 @@ Other,601005,Local Business
 Other,601006,Local Business
 American,601007,Hot Dog Joint
 Other,601011,Region
-Other,601012,Hotel
-Other,601015,German Restaurant
+Bar,601012,Hotel
+Bar,601015,German Restaurant
 Other,602001,Local Business
 Other,602004,Food & Restaurant
 Other,602005,Local Business
@@ -24416,7 +24422,7 @@ Bar,605012,Bar & Grill
 Other,606001,Food/Beverages
 Other,606002,Local Business
 Dessert,606003,Ice Cream Parlor
-American,606004,New American Restaurant
+BBQ,606004,New American Restaurant
 Sandwiches & Salads,606006,Sandwich Shop
 Other,606007,Transportation Service
 Other,606008,Local Business
@@ -24428,6 +24434,8 @@ Bar,607004,Bar
 Bar,607006,Pub
 Mexican,607007,Mexican Restaurant
 Bar,607008,Bar
+Sandwiches & Salads,607009,Sandwich Shop
+Italian,607010,Italian Restaurant
 Other,608001,Family Style Restaurant
 Bar,608002,Bar
 Other,608003,Soccer Field
@@ -24442,7 +24450,7 @@ Other,609006,Food & Restaurant
 Other,609007,Local Business
 Other,609008,Local Business
 Other,609011,Local Business
-Other,610001,Restaurant
+Bar,610001,Restaurant
 Other,611001,Just For Fun
 Mexican,611006,Mexican Restaurant
 Other,611007,Local Business
@@ -24452,12 +24460,13 @@ Japanese,616001,Sushi Restaurant
 American,617001,Fast Food Restaurant
 Mexican,618001,Mexican Restaurant
 Other,619001,Breakfast & Brunch Restaurant
-American,620001,American Restaurant
+Bar,620001,American Restaurant
 Bar,624012,Bar
 Burgers,625009,Burger Joint
 Bar,627010,Wine Shop
 Other,629009,Restaurant
 Other,638003,Thai Restaurant
+Other,640002,Local Business
 Mexican,642002,Mexican Restaurant
 Other,643001,Local Business
 Other,644001,Restaurant
@@ -24465,7 +24474,7 @@ Bar,644002,Bar
 Seafood,644003,Seafood Restaurant
 Other,645001,Latin American Restaurant
 Chinese,645002,Chinese Restaurant
-Other,646001,Restaurant
+Japanese,646001,Restaurant
 Middle Eastern,646002,Ethiopian Restaurant
 Other,647001,Food & Restaurant
 American,648001,New American Restaurant
@@ -24478,10 +24487,1104 @@ Other,652001,Soccer Field
 Bar,652002,Cocktail Bar
 Other,653001,Performance Venue
 Other,654002,Restaurant
+Bar,654003,Gay Bar
 Other,655003,Bakery
 Mexican,657003,Mexican Restaurant
 Bar,658001,Cocktail Bar
 Other,659002,Sports Venue & Stadium
+Bar,662005,Bar
 Mexican,663001,Mexican Restaurant
 BBQ,664001,Barbecue Restaurant
 Other,665001,Transportation Service
+Italian,668001,Italian Restaurant
+Sandwiches & Salads,671001,Sandwich Shop
+Other,673001,Local Business
+BBQ,673002,BBQ Joint
+Bar,674001,Nightclub
+Other,674004,Diner
+Other,675001,Local Business
+Bar,675002,Bar
+Bar,676001,Lounge
+Bar,677001,Bar
+Bar,677002,Bar
+Other,678001,Local Business
+Bar,678003,Bar
+Bar,680003,Bar
+Other,680004,Bakery
+Other,684001,Food & Drink Shop
+Other,687001,Local Business
+American,688001,Fried Chicken Joint
+Other,688002,College Classroom
+Vegetarian,689002,Vegetarian / Vegan Restaurant
+American,689003,American Restaurant
+Bar,689004,Bar
+Other,689005,Boutique
+Other,689006,Boutique
+American,689007,American Restaurant
+Other,689008,Newsstand
+Other,689009,Restaurant
+Other,689010,Bakery
+Bar,689011,Gastropub
+Bar,689012,Bar
+Bar,689013,Cocktail Bar
+Other,689014,Restaurant
+Indian,689015,Indian Restaurant
+Other,689016,Law School
+Other,689017,Restaurant
+Cafe,689018,Coffee Shop
+Cafe,689019,Coffee Shop
+Other,689020,Boutique
+Other,689021,Hotel
+Bar,689022,Bar
+Other,689081,Local Business
+Other,689082,Local Business
+Bar,692002,Lounge
+Other,692003,Hotel
+Other,692004,Vietnamese Restaurant
+Cafe,692005,Hotel Bar
+Middle Eastern,692006,Middle Eastern Restaurant
+Other,692007,Thai Restaurant
+Other,692008,Voting Booth
+Other,692009,Hotel
+Other,692010,Hotel
+Chinese,692011,Chinese Restaurant
+Bar,692012,Bar
+Sandwiches & Salads,692013,Sandwich Place
+Cafe,692014,Coffee Shop
+Bar,692015,Wine Bar
+Bar,692016,Bar
+Other,692017,Hotel
+Bar,692018,Pub
+Other,692019,Bagel Shop
+American,692020,Fast Food Restaurant
+Italian,692021,Italian Restaurant
+Bar,692022,Bar
+Bar,692023,Sports Bar
+Bar,692024,Pub
+Other,692025,Deli / Bodega
+Cafe,692026,Café
+Bar,692027,Wine Shop
+Other,692028,Zoo
+Bar,692029,Dive Bar
+Other,692030,Hotel
+Other,692031,Hotel
+Other,692032,College Football Field
+Other,692033,Thai Restaurant
+Other,692034,Deli / Bodega
+Cafe,692035,Café
+Burgers,692036,Burger Joint
+Bar,692037,Lounge
+Bar,692038,Sports Bar
+Other,692039,Boutique
+Indian,692040,Indian Restaurant
+Cafe,692041,Café
+Other,693003,College Quad
+Middle Eastern,693004,Mediterranean Restaurant
+Other,693005,Boutique
+Bar,693006,Hotel Bar
+Other,693007,African Restaurant
+Dessert,693008,Ice Cream Shop
+Steakhouse,693009,Steakhouse
+Other,693010,Restaurant
+Other,693011,Greek Restaurant
+Bar,693012,Lounge
+Japanese,693013,Sushi Restaurant
+Other,693014,Cuban Restaurant
+Bar,693015,Cocktail Bar
+Indian,693016,Indian Restaurant
+Middle Eastern,693017,Middle Eastern Restaurant
+Cafe,693018,Coffee Shop
+Middle Eastern,693019,Mediterranean Restaurant
+Bar,693020,Bar
+Bar,693021,Nightclub
+Other,693077,Local Business
+French,694002,French Restaurant
+Burgers,694003,Burger Joint
+Other,694004,Hotel
+Bar,694005,Whisky Bar
+Bar,694006,Beer Garden
+Pizza,694007,Pizza Place
+Dessert,694008,Dessert Shop
+Bar,694009,Lounge
+Bar,694010,Lounge
+Bar,694011,Bar
+Other,694012,Track
+Other,694013,Tapas Restaurant
+Steakhouse,694014,Steakhouse
+Sandwiches & Salads,694015,Sandwich Place
+Cafe,694016,Tea Room
+Bar,694017,Sports Bar
+Italian,694018,Italian Restaurant
+Mexican,694019,Burrito Place
+American,694020,American Restaurant
+Other,694021,Asian Restaurant
+Bar,694022,Bar
+Bar,694023,Bar
+Bar,694024,Cocktail Bar
+Dessert,694025,Cupcake Shop
+American,694026,American Restaurant
+Other,694027,Food
+Bar,695002,Bar
+Other,695003,Deli / Bodega
+Bar,695004,Lounge
+Mexican,695005,Mexican Restaurant
+Other,695006,Juice Bar
+Mexican,695007,Mexican Restaurant
+Pizza,695008,Pizza Place
+Other,695009,Deli / Bodega
+Bar,695010,Sports Bar
+Bar,695011,Nightclub
+Other,695012,Financial or Legal Service
+Other,695013,Zoo
+American,695014,American Restaurant
+Other,695015,South American Restaurant
+Bar,695016,Bar
+Other,695017,Food Truck
+Other,695018,Voting Booth
+Other,695019,Hotel
+Other,695020,Record Shop
+Bar,695021,Beer Garden
+Other,696002,Hardware Store
+Bar,696003,Bar
+Other,696004,College Gym
+Other,696005,Hotel
+Cafe,696006,Coffee Shop
+Other,696007,Southern / Soul Food Restaurant
+Sandwiches & Salads,696008,Sandwich Place
+Cafe,696009,Hotel
+Bar,696010,Wine Shop
+Other,696011,Photography Lab
+Bar,696012,Lounge
+Cafe,696013,Café
+Cafe,696014,Café
+Other,696015,Boutique
+Other,696016,Food Court
+Bar,696017,Cocktail Bar
+Italian,696018,Italian Restaurant
+Middle Eastern,696019,Falafel Restaurant
+American,696020,New American Restaurant
+Bar,696021,Bar
+Other,696022,Bakery
+Pizza,696023,Pizza Place
+American,696024,Fast Food Restaurant
+Japanese,699002,Sushi Restaurant
+Other,699003,Vietnamese Restaurant
+Other,699004,Diner
+Bar,699005,Gastropub
+Bar,699006,Bar
+American,699007,American Restaurant
+Cafe,699008,Breakfast Spot
+Bar,699009,Bar
+Bar,699010,Dive Bar
+American,699011,American Restaurant
+Bar,699012,Cocktail Bar
+Cafe,699013,Breakfast Spot
+Other,699014,Thai Restaurant
+Mexican,699015,Mexican Restaurant
+Other,699016,Record Shop
+Bar,699017,Pub
+Bar,699018,Bar
+Other,699019,Hotel
+Bar,699020,Cocktail Bar
+Other,699021,Boutique
+American,700002,American Restaurant
+Other,700003,Hotel
+Bar,700004,Bar
+Bar,700005,Jazz Club
+Japanese,700006,Sushi Restaurant
+Bar,700007,Lounge
+Chinese,700008,Chinese Restaurant
+Dessert,700009,Ice Cream Shop
+Pizza,700010,Pizza Place
+Cafe,700011,Breakfast Spot
+Other,700012,Juice Bar
+Bar,700013,Wine Bar
+Bar,700014,Wine Bar
+Bar,700015,Gastropub
+Bar,700016,Bar
+Other,700017,Cemetery
+Dessert,700018,Ice Cream Shop
+Other,700019,Hotel
+Other,700020,Boutique
+Sandwiches & Salads,700021,Sandwich Place
+French,700022,French Restaurant
+Bar,700023,Lounge
+Bar,700024,Bar
+Bar,700025,Dive Bar
+Bar,701002,Sports Bar
+Bar,701003,Bar
+Bar,701004,Beer Garden
+BBQ,703001,BBQ Joint
+Chinese,703002,Ramen /  Noodle House
+Other,703003,Diner
+Other,703004,Southern / Soul Food Restaurant
+Bar,703005,Beer Garden
+Cafe,703006,Tea Room
+Bar,703007,Bar
+Other,703008,Asian Restaurant
+Other,703009,Latin American Restaurant
+Seafood,703010,Seafood Restaurant
+Bar,703011,Bar
+American,703012,American Restaurant
+Other,703013,Spanish Restaurant
+Middle Eastern,703014,Falafel Restaurant
+French,703015,French Restaurant
+Sandwiches & Salads,703016,Salad Place
+Bar,703017,Bar
+Bar,703018,Sports Bar
+Other,703019,Boutique
+Other,703020,Vietnamese Restaurant
+Other,703021,African Restaurant
+Dessert,703022,Ice Cream Shop
+Japanese,703023,Sushi Restaurant
+Cafe,703024,Coffee Shop
+Other,703025,Hotel
+Bar,703026,Bar
+Other,703027,Design Studio
+Bar,703028,Bar
+American,703029,Cajun / Creole Restaurant
+Other,704001,Hotel
+Bar,704002,Bar
+Seafood,704003,Seafood Restaurant
+Other,704004,Diner
+Italian,704005,Italian Restaurant
+Seafood,704006,Seafood Restaurant
+Bar,704007,Nightclub
+Other,704008,African Restaurant
+Bar,704009,Bar
+Other,704010,Hotel
+Middle Eastern,704011,Falafel Restaurant
+Other,704012,Hotel
+Bar,704013,Wine Bar
+Other,704014,Bakery
+Burgers,704015,Burger Joint
+Bar,704016,Wine Bar
+Bar,704017,Gay Bar
+Mexican,704018,Mexican Restaurant
+Other,704019,Athletic & Sport
+Bar,704020,Cocktail Bar
+Bar,705001,Gastropub
+Bar,705002,Bar
+Mexican,705003,Mexican Restaurant
+American,705004,New American Restaurant
+Bar,705005,Bar
+Bar,705006,Bar
+Mexican,705007,Taco Place
+Bar,705008,Bar
+Bar,705009,Bar
+Bar,705010,Bar
+Other,705011,Diner
+Mexican,705012,Mexican Restaurant
+Steakhouse,705013,Steakhouse
+Bar,705014,Bar
+American,705015,American Restaurant
+Cafe,705016,Coffee Shop
+Other,705017,Hotel Pool
+Chinese,705018,Chinese Restaurant
+Other,705019,Restaurant
+American,705020,American Restaurant
+Other,705021,Hotel
+Middle Eastern,705022,Middle Eastern Restaurant
+Burgers,705023,Burger Joint
+Other,705024,Hotel
+American,705025,American Restaurant
+Other,705026,Restaurant
+Bar,705027,Nightclub
+Bar,705028,Wine Shop
+American,706001,American Restaurant
+American,706002,American Restaurant
+Other,706003,Vietnamese Restaurant
+Mexican,706004,Burrito Place
+Other,706005,Asian Restaurant
+Bar,706006,Pub
+Bar,706007,Pub
+Seafood,706008,Seafood Restaurant
+Other,706009,Filipino Restaurant
+Bar,706010,Dive Bar
+Bar,706011,Lounge
+Bar,706012,Sports Bar
+Cafe,706013,Breakfast Spot
+American,706014,Snack Place
+Other,706015,Mobile Phone Shop
+Mexican,706016,Mexican Restaurant
+Cafe,706017,Café
+American,706018,American Restaurant
+Japanese,706019,Japanese Restaurant
+Seafood,706020,Seafood Restaurant
+Other,706021,College Rec Center
+Other,707001,Latin American Restaurant
+Bar,707002,Bar
+American,707003,Cajun / Creole Restaurant
+Cafe,707004,Breakfast Spot
+Other,707005,Portuguese Restaurant
+Bar,707006,Lounge
+Other,707007,Food
+Cafe,707008,Café
+Bar,707009,Cocktail Bar
+American,707010,American Restaurant
+Other,707011,Diner
+Sandwiches & Salads,707012,Sandwich Place
+Steakhouse,707013,Steakhouse
+Other,707014,Restaurant
+Cafe,707015,Café
+Mexican,707016,Mexican Restaurant
+Other,707017,Boutique
+Cafe,707018,Coffee Shop
+Other,707019,Boutique
+Other,707020,Gourmet Shop
+Other,707021,Gourmet Shop
+Seafood,707022,Seafood Restaurant
+Japanese,707023,Sushi Restaurant
+Bar,707024,Pub
+Cafe,707025,Breakfast Spot
+Other,707066,Vintage Store
+Bar,708001,Pub
+Bar,708002,Cocktail Bar
+Bar,708003,Bar
+Bar,708004,Bar
+Cafe,708005,Breakfast Spot
+Bar,708006,Bar
+Other,708007,Hotel
+Bar,708008,Lounge
+Bar,708009,Nightclub
+Italian,708010,Italian Restaurant
+Bar,708011,Wine Bar
+Bar,708012,Bar
+Bar,708013,Pub
+Bar,708014,Bar
+Bar,708015,Wine Bar
+Other,708016,Bed & Breakfast
+Bar,708017,Vineyard
+Other,708018,Cocktail Bar
+Other,708019,Elementary School
+Italian,708020,Italian Restaurant
+Other,708021,Food Truck
+Other,708022,Hotel
+Bar,708023,Bar
+American,708024,American Restaurant
+Japanese,708025,Japanese Restaurant
+Sandwiches & Salads,708026,Sandwich Place
+Other,708027,Scandinavian Restaurant
+Other,708028,Hotel
+Bar,708029,Nightclub
+Other,709001,Diner
+Bar,709002,Bar
+Bar,709003,Cocktail Bar
+Other,709004,Tapas Restaurant
+Other,709005,Thai Restaurant
+Mexican,709006,Mexican Restaurant
+American,709007,American Restaurant
+Italian,709008,Italian Restaurant
+Other,709009,Food
+Other,709010,Asian Restaurant
+Bar,709011,Bar
+Mexican,709012,Taco Place
+Seafood,709013,Seafood Restaurant
+Burgers,709014,Burger Joint
+Bar,709015,Bar
+Other,709016,Bakery
+Cafe,709017,Coffee Shop
+Other,709018,Food & Drink Shop
+Bar,709019,Nightclub
+Bar,709020,Cocktail Bar
+Mexican,709021,Mexican Restaurant
+Other,709022,College Theater
+Cafe,709023,Coffee Shop
+Bar,709024,Pub
+Other,709025,Boutique
+Bar,709026,Bar
+Other,710001,Design Studio
+Sandwiches & Salads,710002,Sandwich Place
+Middle Eastern,710003,Falafel Restaurant
+Sandwiches & Salads,710004,Salad Place
+Cafe,710005,Coffee Shop
+Cafe,710006,Coffee Shop
+Seafood,710007,Seafood Restaurant
+Other,710008,Mosque
+Cafe,710009,Coffee Shop
+Other,710010,Board Shop
+Bar,710011,Dive Bar
+Middle Eastern,710012,Middle Eastern Restaurant
+Bar,710013,Nightclub
+Italian,710014,Italian Restaurant
+Other,710015,Hobby Shop
+Other,710016,Restaurant
+Bar,710017,Beer Garden
+Other,710018,College Communications Building
+Bar,710019,Pub
+Bar,710020,Nightclub
+Bar,710021,Sports Bar
+Burgers,710022,Burger Joint
+Pizza,710075,Pizza Place
+Bar,711001,Nightclub
+Bar,711002,Bar
+Bar,711003,Dive Bar
+Cafe,711004,Coffee Shop
+Chinese,711005,Dim Sum Restaurant
+Pizza,711006,Pizza Place
+Other,711007,Hotel
+American,711008,New American Restaurant
+Mexican,711009,Mexican Restaurant
+Other,711010,Hotel
+Mexican,711011,Mexican Restaurant
+Other,711012,Hotel
+Italian,711013,Italian Restaurant
+Bar,711014,Winery
+Cafe,711015,Café
+Cafe,711016,Coffee Shop
+Other,711017,Design Studio
+Dessert,711018,Dessert Shop
+Bar,711019,Lounge
+Japanese,711020,Sushi Restaurant
+Cafe,711021,Tea Room
+Japanese,711022,Japanese Restaurant
+French,711023,French Restaurant
+Other,711024,College Communications Building
+Other,711025,Design Studio
+Bar,711026,Cocktail Bar
+Other,711027,Hobby Shop
+Cafe,711028,Café
+American,712001,American Restaurant
+BBQ,712002,BBQ Joint
+Bar,712003,Bar
+Other,712004,Hotel
+Mexican,712005,Mexican Restaurant
+Other,712006,German Restaurant
+Burgers,712007,Burger Joint
+Mexican,712008,Burrito Place
+Bar,712009,Wine Bar
+Bar,712010,Nightclub
+Bar,712011,Nightclub
+Pizza,712012,Pizza Place
+Bar,712013,Bar
+Bar,712014,Whisky Bar
+Japanese,712015,Japanese Restaurant
+Other,712016,Greek Restaurant
+Bar,712017,Lounge
+Mexican,712018,Mexican Restaurant
+Bar,712019,Gastropub
+Mexican,712020,Mexican Restaurant
+Bar,712021,Bar
+Cafe,712022,Café
+Bar,712023,Bar
+Middle Eastern,712024,Middle Eastern Restaurant
+Bar,712025,Pub
+Other,712026,Zoo
+Other,712027,Korean Restaurant
+Bar,712028,Bar
+Other,712029,Thai Restaurant
+American,712030,American Restaurant
+Bar,712031,Bar
+Other,712032,Hotel
+Middle Eastern,712033,Falafel Restaurant
+Other,712034,Bagel Shop
+Japanese,712035,Sushi Restaurant
+Mexican,712036,Mexican Restaurant
+Burgers,712037,Burger Joint
+Sandwiches & Salads,712038,Sandwich Place
+Cafe,712039,Breakfast Spot
+Mexican,712040,Mexican Restaurant
+French,713001,French Restaurant
+Other,713002,Gourmet Shop
+Cafe,713003,Coffee Shop
+Other,713004,Restaurant
+American,713005,Wings Joint
+Sandwiches & Salads,713006,Sandwich Place
+Bar,713007,Nightclub
+Other,713008,Thai Restaurant
+Sandwiches & Salads,713009,Sandwich Place
+Bar,713010,Bar
+Bar,713011,Cocktail Bar
+Bar,713012,Bar
+Bar,713013,Bar
+Pizza,713014,Pizza Place
+Other,713015,Board Shop
+Bar,713016,Beer Garden
+Other,713017,Mobile Phone Shop
+Other,713018,Boutique
+Cafe,713019,Café
+Other,713020,Fair
+Bar,713021,Whisky Bar
+Other,713022,Hotel
+Other,713023,Hotel
+Bar,713024,Bar
+Other,713025,Hotel
+Pizza,713026,Pizza Place
+Other,713027,Bakery
+Bar,713028,Bar
+Bar,714001,Bar
+Burgers,714002,Burger Joint
+Bar,714003,Sports Bar
+Mexican,714004,Taco Place
+Bar,714005,Bar
+Bar,714006,Sports Bar
+Mexican,714007,Mexican Restaurant
+Bar,714008,Bar
+American,714009,New American Restaurant
+Cafe,714010,Café
+Other,714011,South American Restaurant
+Pizza,714012,Pizza Place
+Bar,714013,Bar
+Other,714014,Food Truck
+Other,714015,Zoo
+American,714016,Fast Food Restaurant
+Bar,714017,Pub
+Sandwiches & Salads,714018,Sandwich Place
+Other,714019,Boutique
+Bar,714020,Bar
+Other,714021,Farm
+Other,714022,Boutique
+Italian,714023,Italian Restaurant
+Other,714024,Mobile Phone Shop
+Bar,715001,Bar
+Other,715002,Roof Deck
+American,716001,American Restaurant
+Other,716002,German Restaurant
+American,716003,New American Restaurant
+Burgers,716004,Burger Joint
+Seafood,716005,Seafood Restaurant
+Other,716006,Food Truck
+Sandwiches & Salads,716007,Sandwich Place
+Cafe,716008,Coffee Shop
+Bar,716009,Wine Shop
+Other,716010,Hotel
+Bar,716011,Bar
+Cafe,716012,Coffee Shop
+Japanese,716013,Sushi Restaurant
+Bar,716014,Karaoke Bar
+Bar,716015,Wine Bar
+Bar,716016,Hotel Bar
+Other,716017,Design Studio
+Bar,716018,Sports Bar
+Bar,717001,Sports Bar
+Pizza,717002,Pizza Place
+Bar,717003,Gastropub
+Bar,717004,Bar
+Other,717005,Hotel
+Japanese,717006,Sushi Restaurant
+Mexican,717007,Taco Place
+Mexican,717008,Mexican Restaurant
+Bar,717009,Lounge
+Other,717010,Boutique
+Other,717011,Boutique
+Bar,717012,Wine Bar
+Seafood,717013,Seafood Restaurant
+American,717014,American Restaurant
+Bar,717015,Pub
+Other,717016,Food Court
+Mexican,717017,Mexican Restaurant
+Sandwiches & Salads,717018,Sandwich Place
+Other,717019,Restaurant
+American,717020,Fast Food Restaurant
+Cafe,717021,Cafeteria
+Bar,717022,Pub
+Bar,717023,Bar
+Other,717024,Boutique
+Bar,717025,Bar
+Bar,717026,Bar
+Other,717027,Funeral Home
+Other,717028,Food Truck
+Other,717029,Boutique
+Middle Eastern,717030,Falafel Restaurant
+Other,717094,Food Stand
+Bar,718001,Bar
+Other,718002,Tapas Restaurant
+Sandwiches & Salads,718003,Sandwich Place
+Bar,718004,Pub
+Cafe,718005,Coffee Shop
+Bar,718006,Lounge
+Bar,718007,Bar
+Sandwiches & Salads,718008,Sandwich Place
+Other,718009,Hotel
+Bar,718010,Cocktail Bar
+Bar,718011,Bar
+Bar,718012,Bar
+Other,718013,Plane
+Dessert,718014,Dessert Shop
+Other,718015,Restaurant
+Bar,718016,Sports Bar
+Other,718017,Hotel
+Cafe,718018,Breakfast Spot
+Bar,718019,Bar
+Other,718020,Deli / Bodega
+Other,718021,Boutique
+Cafe,718022,Coffee Shop
+Bar,718023,Pub
+French,718024,French Restaurant
+Mexican,718025,Mexican Restaurant
+Chinese,718026,Ramen /  Noodle House
+Bar,718027,Cocktail Bar
+Other,718028,Deli / Bodega
+Other,718029,Zoo
+Italian,718030,Italian Restaurant
+American,718031,American Restaurant
+Bar,718032,Pub
+Bar,718033,Bar
+Other,718034,Antique Shop
+Bar,719001,Bar
+Cafe,719002,Breakfast Spot
+Bar,720001,Pub
+Other,720002,Bakery
+American,720003,American Restaurant
+Other,720004,Tapas Restaurant
+Dessert,720005,Ice Cream Shop
+Other,720006,Bagel Shop
+American,720007,American Restaurant
+American,720008,American Restaurant
+Burgers,720009,Burger Joint
+Italian,720010,Italian Restaurant
+Italian,720011,Italian Restaurant
+Other,720012,Bakery
+Bar,720013,Gastropub
+Other,720014,Track
+Cafe,720015,Coffee Shop
+Other,720016,Arepa Restaurant
+Burgers,720017,Burger Joint
+Steakhouse,720018,Steakhouse
+Other,720019,Bakery
+Middle Eastern,720020,Falafel Restaurant
+Other,720021,Gourmet Shop
+Japanese,720022,Sushi Restaurant
+Cafe,720023,Coffee Shop
+Mexican,720024,Burrito Place
+Cafe,720025,Coffee Shop
+Bar,720026,Nightclub
+Sandwiches & Salads,720027,Sandwich Place
+Other,720028,Thai Restaurant
+Other,720029,Hotel
+Bar,720030,Bar
+Bar,720031,Bar
+Sandwiches & Salads,721001,Sandwich Place
+Mexican,721002,Mexican Restaurant
+Bar,721003,Lounge
+Other,721004,Asian Restaurant
+American,721005,Fast Food Restaurant
+Dessert,721006,Dessert Shop
+Middle Eastern,721007,Middle Eastern Restaurant
+Other,721008,Paella Restaurant
+Bar,721009,Nightclub
+Middle Eastern,721010,Middle Eastern Restaurant
+Sandwiches & Salads,721011,Sandwich Place
+Other,721012,Hardware Store
+Other,721013,Hotel
+American,721014,American Restaurant
+Other,721015,Gourmet Shop
+Other,721016,Spanish Restaurant
+Other,721017,Food Court
+Bar,721018,Dive Bar
+Other,721066,Vietnamese Restaurant
+American,722001,American Restaurant
+Bar,722002,Cocktail Bar
+Other,722003,Boutique
+Italian,722004,Italian Restaurant
+Mexican,722005,Mexican Restaurant
+Bar,722006,Bar
+Mexican,722007,Mexican Restaurant
+Other,722008,Bakery
+Mexican,722009,Mexican Restaurant
+Bar,722010,Cocktail Bar
+Other,722011,Hotel
+Other,722012,Hotel
+Other,722013,College Quad
+Chinese,722014,Ramen /  Noodle House
+Cafe,722015,Coffee Shop
+Other,722016,Hotel
+Other,722017,Hotel
+Bar,722018,Cocktail Bar
+Cafe,722019,Coffee Shop
+French,722020,French Restaurant
+Bar,722021,Karaoke Bar
+Other,722022,Boutique
+Other,722023,Hotel
+Dessert,722024,Dessert Shop
+Italian,722025,Italian Restaurant
+Other,722026,Hardware Store
+Cafe,722027,Café
+Other,722028,Gourmet Shop
+American,722029,Hot Dog Joint
+Bar,722030,Gay Bar
+Bar,722031,Cocktail Bar
+Other,722062,Local Business
+Other,723001,Southern / Soul Food Restaurant
+American,724001,American Restaurant
+Other,724002,Bakery
+Bar,724003,Bar
+Other,724004,College Communications Building
+Other,724005,Lounge
+Cafe,724006,Coffee Shop
+Cafe,724007,Coffee Shop
+Bar,724008,Bar
+Cafe,724009,Coffee Shop
+Other,724010,Record Shop
+Bar,724011,Bar
+Sandwiches & Salads,724012,Sandwich Place
+Other,724013,Hotel
+Bar,724014,Bar
+Seafood,724015,Seafood Restaurant
+Middle Eastern,724016,Middle Eastern Restaurant
+Burgers,724017,Burger Joint
+American,724018,American Restaurant
+Burgers,724019,Burger Joint
+Bar,725001,Bar
+Other,725002,Diner
+Other,725003,Hotel
+Other,725004,South American Restaurant
+American,725005,American Restaurant
+Mexican,725006,Mexican Restaurant
+Mexican,725007,Mexican Restaurant
+Other,725008,Deli / Bodega
+Italian,725009,Italian Restaurant
+Indian,725010,Indian Restaurant
+American,725011,American Restaurant
+Cafe,725012,Coffee Shop
+Mexican,725013,Mexican Restaurant
+Other,725014,Post Office
+Other,725015,Gourmet Shop
+Mexican,725016,Mexican Restaurant
+Bar,725017,Bar
+Pizza,725018,Pizza Place
+Cafe,725019,Coffee Shop
+Bar,725020,Pub
+French,725021,French Restaurant
+Bar,725022,Winery
+American,725023,American Restaurant
+Bar,725024,Cocktail Bar
+American,725025,American Restaurant
+Bar,725026,Cocktail Bar
+Other,726001,Design Studio
+Middle Eastern,726002,Middle Eastern Restaurant
+Cafe,726003,Coffee Shop
+Cafe,726004,Café
+American,726005,American Restaurant
+Bar,726006,Bar
+Dessert,726007,Dessert Shop
+Other,726008,Boutique
+Bar,726009,Nightclub
+Chinese,726010,Chinese Restaurant
+Sandwiches & Salads,726011,Salad Place
+Other,726012,Boutique
+Bar,726013,Bar
+Other,726014,Hotel
+Other,726015,Hotel
+Other,726054,Local Business
+Bar,727001,Cocktail Bar
+Bar,727002,Pub
+Cafe,728001,Breakfast Spot
+Other,728002,Medical Center
+Bar,728003,Bar
+Japanese,728004,Sushi Restaurant
+Bar,728005,Bar
+Bar,728006,Nightclub
+Burgers,728007,Burger Joint
+American,728008,American Restaurant
+American,728009,Hot Dog Joint
+BBQ,728010,BBQ Joint
+Other,728011,Food
+Other,728012,Medical Center
+Sandwiches & Salads,728013,Sandwich Place
+Bar,728014,Sports Bar
+American,728015,New American Restaurant
+Cafe,728016,Coffee Shop
+American,728017,New American Restaurant
+American,728018,American Restaurant
+Cafe,728019,Café
+Cafe,728020,Café
+Other,728021,Deli / Bodega
+Bar,728022,Bar
+French,728023,French Restaurant
+Mexican,729001,Mexican Restaurant
+Bar,729002,Hotel Bar
+Bar,729003,Pub
+Bar,729004,Gay Bar
+Mexican,729005,Mexican Restaurant
+Other,729006,Hotel
+Bar,729007,Dive Bar
+American,729008,Fast Food Restaurant
+Bar,729009,Bar
+Other,729010,Bakery
+Middle Eastern,729011,Middle Eastern Restaurant
+American,729012,American Restaurant
+Bar,729013,Bar
+Other,729014,Design Studio
+Other,729015,Fire Station
+Other,729016,Post Office
+Bar,729017,Bar
+Bar,729018,Bar
+Bar,729019,Cocktail Bar
+Bar,730001,Pub
+Mexican,730002,Mexican Restaurant
+American,731001,American Restaurant
+Other,731002,College Communications Building
+Other,731003,College Library
+Indian,731004,Indian Restaurant
+American,731005,American Restaurant
+Mexican,731006,Burrito Place
+Other,731007,Hotel
+Mexican,731008,Mexican Restaurant
+American,731009,American Restaurant
+Other,731010,Airport Food Court
+Other,731011,Deli / Bodega
+Japanese,731012,Sushi Restaurant
+BBQ,731013,BBQ Joint
+Other,731014,College Library
+Other,731015,Deli / Bodega
+Other,731016,Design Studio
+Other,731017,Food Truck
+Other,731018,Restaurant
+Bar,731019,Sports Bar
+American,731020,New American Restaurant
+Bar,731021,Winery
+Other,731022,Korean Restaurant
+Bar,731023,Bar
+Other,731024,Asian Restaurant
+Bar,731025,Nightclub
+Other,731026,Boutique
+Burgers,732001,Burger Joint
+Other,732002,College Library
+French,732003,French Restaurant
+Bar,732004,Pub
+Other,732005,Medical Center
+American,732006,American Restaurant
+Japanese,732007,Japanese Restaurant
+Cafe,732008,Breakfast Spot
+Bar,732009,Nightclub
+Other,732010,College Bookstore
+Mexican,732011,Taco Place
+Bar,732012,Bar
+Middle Eastern,732013,Mediterranean Restaurant
+Mexican,732014,Burrito Place
+Bar,732015,Nightclub
+Other,732016,Hardware Store
+Bar,732017,Winery
+Other,732018,Hotel Pool
+Other,732019,Food & Drink Shop
+Chinese,732020,Chinese Restaurant
+Bar,732021,Hotel Bar
+Italian,732022,Italian Restaurant
+BBQ,732023,BBQ Joint
+Middle Eastern,732024,Mediterranean Restaurant
+Bar,732025,Nightclub
+Cafe,732026,Café
+Bar,732027,Cocktail Bar
+Bar,733001,Gastropub
+Bar,733002,Nightclub
+Other,733003,Hotel
+Sandwiches & Salads,733004,Sandwich Place
+Bar,733005,Cocktail Bar
+Other,733006,Asian Restaurant
+BBQ,733007,BBQ Joint
+Steakhouse,733008,Steakhouse
+Bar,733009,Pub
+Mexican,733010,Taco Place
+Bar,733011,Dive Bar
+Cafe,733012,Coffee Shop
+Other,733013,Hotel
+Other,733014,Restaurant
+Other,733015,Hotel
+Other,733016,Hotel
+Other,733017,Hotel
+Middle Eastern,733018,Middle Eastern Restaurant
+Bar,733019,Wine Shop
+Bar,734001,Pub
+Mexican,734002,Mexican Restaurant
+Mexican,734003,Mexican Restaurant
+Mexican,734004,Taco Place
+Cafe,734005,Coffee Shop
+Dessert,734006,Donut Shop
+Bar,734007,Bar
+Burgers,734008,Burger Joint
+Other,734009,College Soccer Field
+Middle Eastern,734010,Middle Eastern Restaurant
+Middle Eastern,734011,Middle Eastern Restaurant
+Middle Eastern,734012,Middle Eastern Restaurant
+Other,734013,Hotel
+Cafe,734014,Café
+Cafe,734015,Café
+Italian,734016,Italian Restaurant
+Other,734017,College Library
+Mexican,734018,Taco Place
+Bar,734019,Bar
+Bar,734020,Dive Bar
+Cafe,734021,Coffee Shop
+Mexican,734022,Burrito Place
+Dessert,734023,Ice Cream Shop
+Bar,734024,Bar
+Dessert,734025,Ice Cream Shop
+Other,734026,Cemetery
+Cafe,735001,Coffee Shop
+Mexican,736001,Mexican Restaurant
+Bar,736002,Bar
+Pizza,736003,Pizza Place
+Other,736004,Boutique
+Sandwiches & Salads,736005,Sandwich Place
+Bar,736006,Bar
+American,736007,American Restaurant
+Burgers,736008,Burger Joint
+Middle Eastern,736009,Falafel Restaurant
+Middle Eastern,736010,Middle Eastern Restaurant
+Italian,736011,Italian Restaurant
+Bar,736012,Bar
+Other,736013,Hobby Shop
+Cafe,736014,Café
+Bar,736015,Bar
+Indian,736016,Indian Restaurant
+Other,736017,Boutique
+Other,736018,Boutique
+American,736019,Fast Food Restaurant
+Other,736053,Local Business
+American,736054,New American Restaurant
+Chinese,737001,Chinese Restaurant
+Burgers,738001,Burger Joint
+Bar,738002,Nightclub
+Indian,738003,Indian Restaurant
+Sandwiches & Salads,738004,Salad Place
+Bar,738005,Cocktail Bar
+Bar,738006,Bar
+Bar,738007,Bar
+Middle Eastern,738008,Mediterranean Restaurant
+Dessert,738009,Ice Cream Shop
+Mexican,738010,Mexican Restaurant
+Bar,738011,Dive Bar
+Other,738012,Food Truck
+Other,738013,Record Shop
+Other,738014,Scandinavian Restaurant
+Pizza,738015,Pizza Place
+Cafe,738016,Coffee Shop
+Bar,738017,Bar
+American,738018,American Restaurant
+Bar,738019,Bar
+Bar,739001,Bar
+Pizza,739002,Pizza Place
+Other,740001,Dog Run
+Other,740002,Skate Park
+Chinese,740003,Chinese Restaurant
+Burgers,740004,Burger Joint
+Other,740005,Plane
+Bar,740006,Nightclub
+Mexican,740007,Burrito Place
+Dessert,740008,Dessert Shop
+American,740009,American Restaurant
+Other,740010,Antique Shop
+Mexican,740011,Mexican Restaurant
+Middle Eastern,740012,Ethiopian Restaurant
+Bar,740013,Bar
+Seafood,740014,Seafood Restaurant
+Italian,740015,Italian Restaurant
+American,740016,American Restaurant
+Pizza,740017,Pizza Place
+American,740018,American Restaurant
+American,740019,Snack Place
+Pizza,740020,Pizza Place
+French,741001,French Restaurant
+Other,741002,Tapas Restaurant
+Sandwiches & Salads,741003,Sandwich Place
+Mexican,741004,Taco Place
+Cafe,741005,Coffee Shop
+Bar,741006,Sports Bar
+Bar,741007,Bar
+Cafe,741008,Café
+Bar,741009,Lounge
+Cafe,741010,Coffee Shop
+Bar,741011,Wine Bar
+Other,741012,Asian Restaurant
+Bar,741013,Sports Bar
+Cafe,741014,Coffee Shop
+Other,741015,Southern / Soul Food Restaurant
+Bar,741016,Bar
+Bar,741017,Cocktail Bar
+Cafe,741018,Breakfast Spot
+American,741019,American Restaurant
+American,741020,American Restaurant
+Bar,741021,Nightclub
+Other,741022,Post Office
+Mexican,741023,Burrito Place
+Other,741024,South American Restaurant
+Other,741025,Soup Place
+Cafe,741026,Coffee Shop
+Japanese,741027,Sushi Restaurant
+Bar,741028,Wine Shop
+Bar,742001,Sports Bar
+Other,742002,Hotel
+Other,742003,Australian Restaurant
+Bar,742004,Bar
+Dessert,742005,Cupcake Shop
+Sandwiches & Salads,742006,Sandwich Place
+Other,742007,Food & Drink Shop
+Cafe,742008,Coffee Shop
+Other,742009,Hotel
+Italian,742010,Italian Restaurant
+Bar,742011,Bar
+Other,742012,Southern / Soul Food Restaurant
+Bar,742013,Bar
+Cafe,742014,Café
+Other,742015,Plane
+Bar,742016,Pub
+Bar,742017,Bar
+Cafe,743001,Coffee Shop
+Other,743002,Farm
+Other,743003,College Gym
+Cafe,743004,Coffee Shop
+Bar,743005,Bar
+Cafe,743006,Coffee Shop
+Other,743007,Bakery
+Japanese,743008,Japanese Restaurant
+Bar,743009,Bar
+Other,743010,Hotel
+Dessert,743011,Ice Cream Shop
+Other,743012,Boutique
+Bar,743013,Wine Bar
+Other,743014,Spanish Restaurant
+Chinese,743015,Chinese Restaurant
+Other,743016,Fish & Chips Shop
+Other,744001,Garden
+Bar,744002,Sports Bar
+Burgers,745001,Burger Joint
+Bar,745002,Bar
+American,745003,American Restaurant
+Italian,745004,Italian Restaurant
+Other,745005,Restaurant
+Mexican,745006,Mexican Restaurant
+Indian,745007,Indian Restaurant
+Other,745008,Boutique
+Other,745009,Boutique
+Indian,745010,Indian Restaurant
+Bar,745011,Nightclub
+Bar,745012,Lounge
+Bar,745013,Lounge
+Other,745014,Hotel
+Bar,745015,Bar
+Burgers,745016,Burger Joint
+Other,745017,Hotel
+Other,745018,Design Studio
+Bar,745019,Bar
+Bar,745020,Bar
+Other,745021,Conference Room
+Other,745022,Tapas Restaurant
+Other,745023,Hotel
+Japanese,745024,Sushi Restaurant
+Other,745025,Food & Drink Shop
+Bar,745026,Bar
+Bar,745027,Wine Shop
+Mexican,746001,Mexican Restaurant
+Other,746002,Boutique
+Other,746003,Hotel
+Other,746004,Hotel
+Other,746005,Restaurant
+Other,746006,Hotel
+French,746007,French Restaurant
+Other,746008,Korean Restaurant
+American,746009,American Restaurant
+Middle Eastern,746010,Middle Eastern Restaurant
+Other,746011,Restaurant
+Other,746012,Hotel
+Other,746013,Hotel
+American,746014,Wings Joint
+Sandwiches & Salads,746015,Sandwich Place
+Vegetarian,746016,Vegetarian / Vegan Restaurant
+Pizza,746017,Pizza Place
+Other,746018,Diner
+Other,746019,Deli / Bodega
+Bar,746020,Wine Shop
+Other,746054,Local Business
+Other,796001,Beauty Salon
+Bar,823003,Bar

@@ -2,7 +2,7 @@ import json
 from category import HARMONIZED_CATEGORIES
 from category import BLACK_LIST
 
-file = open('vendors_test1')
+file = open('vendors_prod')
 
 vendors = []
 unmapped_cuisines = set()
