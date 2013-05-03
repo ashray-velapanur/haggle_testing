@@ -1,3 +1,0 @@
-    'café',
-    'asian restaurant',
-    'category_name',
