@@ -18,7 +18,7 @@ vendors = []
 unmapped_cuisines = set()
 wrongly_mapped_vendors = [] 
 
-for line in file.readlines():
+for line in file.readlines()[1:]:
     vendor_dict = {}
     vendor_dict['id'] = line.split(',')[1]
     vendor_dict['haggle_cuisine'] = line.split(',')[0]
