@@ -14,8 +14,7 @@ def setup():
     import getpass
 
     def auth_func():
-        #return (raw_input('Username:'), getpass.getpass('Password:'))
-        return ('ashray@b-eagles.com','ashray4455')
+        return (raw_input('Username:'), getpass.getpass('Password:'))
 
     from google.appengine.ext.remote_api import remote_api_stub
     remote_api_stub.ConfigureRemoteApi(None, '/_ah/remote_api', auth_func,'haggle-test1.appspot.com')
