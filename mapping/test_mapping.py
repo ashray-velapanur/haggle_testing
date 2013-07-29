@@ -12,7 +12,7 @@ import json
 from model.category import HARMONIZED_CATEGORIES
 from model.category import BLACK_LIST
 
-file = open('vendor_data', 'w')
+file = open('vendor_data')
 
 vendors = []
 unmapped_cuisines = set()
