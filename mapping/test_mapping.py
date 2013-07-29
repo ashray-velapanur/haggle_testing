@@ -1,8 +1,18 @@
-import json
-from category import HARMONIZED_CATEGORIES
-from category import BLACK_LIST
+# appcfg.py download_data --kind=Vendor --url=https://haggle-prod.appspot.com/_ah/remote_api --config_file=../bulkloader.yaml --filename=vendor_data
 
-file = open('vendors_prod')
+import sys
+
+sys.path.append('../')
+
+from setup import setup
+
+setup()
+
+import json
+from model.category import HARMONIZED_CATEGORIES
+from model.category import BLACK_LIST
+
+file = open('vendor_data', 'w')
 
 vendors = []
 unmapped_cuisines = set()
