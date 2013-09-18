@@ -1,4 +1,9 @@
-def setup():
+ENV = {
+        'prod': 'haggle-prod.appspot.com',
+        'test1': 'haggle-test1.appspot.com'
+        }
+
+def connect_to(env):
     import sys
 
     sys.path.append('/usr/local/google_appengine/')
@@ -14,8 +19,8 @@ def setup():
     import getpass
 
     def auth_func():
-        return (raw_input('Username:'), getpass.getpass('Password:'))
+        return (raw_input('Username:'), getpass.getpass('Password:')
 
     from google.appengine.ext.remote_api import remote_api_stub
-    remote_api_stub.ConfigureRemoteApi(None, '/_ah/remote_api', auth_func,'haggle-test1.appspot.com')
+    remote_api_stub.ConfigureRemoteApi(None, '/_ah/remote_api', auth_func, ENV[env])
 

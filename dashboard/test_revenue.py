@@ -4,7 +4,7 @@ sys.path.append('../')
 
 from setup import setup
 
-setup()
+setup.connect_to('test1')
 
 from negotiation_engine.deal import Deal, DealStatus
 from model.user import User

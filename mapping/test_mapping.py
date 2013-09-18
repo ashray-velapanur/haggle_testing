@@ -1,12 +1,12 @@
-# appcfg.py download_data --kind=Vendor --url=https://haggle-prod.appspot.com/_ah/remote_api --config_file=../bulkloader.yaml --filename=vendor_data
+# appcfg.py download_data --kind=Vendor --url=https://haggle-test1.appspot.com/_ah/remote_api --config_file=../bulkloader.yaml --filename=vendor_data
 
 import sys
 
 sys.path.append('../')
 
-from setup import setup
+import setup
 
-setup()
+setup.connect_to('test1')
 
 import json
 from model.category import HARMONIZED_CATEGORIES
